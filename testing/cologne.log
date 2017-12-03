@@ -1,0 +1,65 @@
+Loading net-file from 'D:\Google Drive\ThirdYear_UNI\Project_EffDetourCompScheme\UPDATED PROJECT\TAPASCologne-0.24.0\TAPASCologne-0.24.0\TestColognePython\TestCologne\test.net.xml'... done (907ms).
+Warning: Unused states in tlLogic '1352605', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic '1562373025', program '0' in phase 0 after tl-index 13
+Warning: Unused states in tlLogic '251073859', program '0' in phase 0 after tl-index 8
+Warning: Unused states in tlLogic '266398233', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic '32356576', program '0' in phase 0 after tl-index 7
+Warning: Unused states in tlLogic '32356643', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic '32356644', program '0' in phase 0 after tl-index 5
+Warning: Unused states in tlLogic '359083', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic '359545', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic '359630', program '0' in phase 0 after tl-index 8
+Warning: Unused states in tlLogic '359992', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic '359993', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic '359994', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic '359995', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic '364175', program '0' in phase 0 after tl-index 5
+Warning: Unused states in tlLogic 'GS_1556009235', program '0' in phase 0 after tl-index 0
+Warning: Unused states in tlLogic 'GS_1678411822', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_1686195785', program '0' in phase 0 after tl-index 0
+Warning: Unused states in tlLogic 'GS_1696142786', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_2393316289', program '0' in phase 0 after tl-index 1
+Warning: Unused states in tlLogic 'GS_264845309', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_305419616', program '0' in phase 0 after tl-index 0
+Warning: Missing yellow phase in tlLogic 'GS_310616518', program '0' for tl-index 0 when switching to phase 1
+Warning: Unused states in tlLogic 'GS_31792622', program '0' in phase 0 after tl-index 5
+Warning: Unused states in tlLogic 'GS_32857243', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_358191012', program '0' in phase 0 after tl-index 1
+Warning: Unused states in tlLogic 'GS_359233', program '0' in phase 0 after tl-index 4
+Warning: Unused states in tlLogic 'GS_359234', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic 'GS_359243', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_359956', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic 'GS_359970', program '0' in phase 0 after tl-index 1
+Warning: Unused states in tlLogic 'GS_443362', program '0' in phase 0 after tl-index 1
+Warning: Unused states in tlLogic 'GS_474339', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_661333411', program '0' in phase 0 after tl-index 0
+Warning: Unused states in tlLogic 'GS_cluster_1238714_1238715_1253841594', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic 'GS_cluster_1683627891_1683627895_75218330_75218448', program '0' in phase 0 after tl-index 8
+Warning: Unused states in tlLogic 'GS_cluster_1684554116_257743898', program '0' in phase 0 after tl-index 8
+Warning: Unused states in tlLogic 'GS_cluster_287534866_287535846', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic 'GS_cluster_33251482_33251483', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'GS_cluster_359201940_359955', program '0' in phase 0 after tl-index 0
+Warning: Unused states in tlLogic 'GS_cluster_423776_423777', program '0' in phase 0 after tl-index 4
+Warning: Unused states in tlLogic 'GS_cluster_660192264_660192265', program '0' in phase 0 after tl-index 12
+Warning: Unused states in tlLogic 'cluster_1138178023_1670381746_268312439', program '0' in phase 0 after tl-index 5
+Warning: Unused states in tlLogic 'cluster_160086_340185418', program '0' in phase 0 after tl-index 7
+Warning: Unused states in tlLogic 'cluster_1629678598_533983696', program '0' in phase 0 after tl-index 0
+Warning: Unused states in tlLogic 'cluster_1638968557_1672324022_1672368342_1672368346_1672368350_255072376_286416917_286416918', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic 'cluster_1834141208_1834141210_32356925', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'cluster_2553916339_359839_359842', program '0' in phase 0 after tl-index 3
+Warning: Unused states in tlLogic 'cluster_313558_359542', program '0' in phase 0 after tl-index 6
+Warning: Unused states in tlLogic 'cluster_32248949_41003119_76598881', program '0' in phase 0 after tl-index 10
+Warning: Unused states in tlLogic 'cluster_357164_359534', program '0' in phase 0 after tl-index 2
+Warning: Unused states in tlLogic 'cluster_368885_368892_368896_368897', program '0' in phase 0 after tl-index 9
+Loading additional-files from 'D:\Google Drive\ThirdYear_UNI\Project_EffDetourCompScheme\UPDATED PROJECT\TAPASCologne-0.24.0\TAPASCologne-0.24.0\TestColognePython\TestCologne\vtypes.add.xml'... done (0ms).
+Loading done.
+Simulation started with time: 21600.00
+Performance: 
+ Duration: 1449115ms
+ Real time factor: 0.437508
+ UPS: 258.038872
+Vehicles: 
+ Inserted: 1705 (Loaded: 7911)
+ Running: 1211
+ Waiting: 2
+
