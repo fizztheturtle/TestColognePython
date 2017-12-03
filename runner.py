@@ -18,14 +18,11 @@ try:
     sys.path.append(os.path.join(os.environ.get("SUMO_HOME", os.path.join(
         os.path.dirname(__file__), "..", "..", "..")), "tools"))  # tutorial in docs
     from sumolib import checkBinary
+
 except ImportError:
     sys.exit(
         "please declare environment variable 'SUMO_HOME' as the root directory of"
         " your sumo installation (it should contain folders 'bin', 'tools' and 'docs')")
-
-
-
-
 
 if 'SUMO_HOME' in os.environ:
     tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
@@ -56,8 +53,7 @@ def get_options():
 if __name__ == "__main__":
     # load whether to run with or without GUI
     options = get_options()
-
-    # this script has been called from the command line. It will start sumo as a
+    # If this script has been called from the command line. It will start sumo as a
     # server, then connect and run
     if options.nogui:
         sumoBinary = checkBinary('sumo')
