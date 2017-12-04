@@ -33,7 +33,7 @@ else:
 def run():
    step = 0
 
-   while step < 1000:
+   while step < 10000:
         traci.simulationStep()
         step += 1
 
