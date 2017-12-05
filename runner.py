@@ -33,10 +33,13 @@ else:
 def run():
    step = 0
 
-   while step < 10000:
+   while step < 5426:
         traci.simulationStep()
         step += 1
-
+        for veh_id in traci.simulation.getDepartedIDList():
+            print (traci.vehicle.subscribe(veh_id, [traci.constants.VAR_POSITION]))
+            # print (traci.vehicle.getElectricityConsumption(veh_id))
+        print (traci.vehicle.getIDList())
    traci.close()
    sys.stdout.flush()
 
